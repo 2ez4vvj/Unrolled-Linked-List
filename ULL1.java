@@ -7,6 +7,7 @@ class practice{
         int numElements;
         int array[];
         ULLNode next;
+        
 
         //A parameterized constructor is written that will be used to initialize the class variables of the ULLNode class
         public ULLNode (int n){
